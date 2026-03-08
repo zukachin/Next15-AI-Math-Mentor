@@ -6,7 +6,7 @@ def retrieve_context(query):
 
     retriever = vectordb.as_retriever(search_kwargs={"k":3})
 
-    docs = retriever.get_relevant_documents(query)
+    docs = retriever.invoke(query)
 
     context = "\n".join([doc.page_content for doc in docs])
 

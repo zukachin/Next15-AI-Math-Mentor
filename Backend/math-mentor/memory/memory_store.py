@@ -4,8 +4,8 @@ import uuid
 from datetime import datetime
 from typing import Any, Dict, List
 
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import Chroma
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
 
 
 MEMORY_DIR = os.path.join("Backend", "math-mentor", "memory", "chroma_memory")

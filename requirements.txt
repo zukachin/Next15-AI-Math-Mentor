@@ -1,7 +1,10 @@
 streamlit
 python-dotenv
 google-generativeai
+groq
 langchain
+langchain-community
+langchain-text-splitters
 chromadb
 sentence-transformers
 faiss-cpu
