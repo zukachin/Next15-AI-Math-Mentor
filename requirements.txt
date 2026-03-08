@@ -1,9 +1,11 @@
-streamlit
+streamlit==1.32.2
 python-dotenv
 google-generativeai
 groq
-langchain
-langchain-community
-langchain-text-splitters
-chromadb
-sentence-transformers
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-text-splitters==0.0.1
+chromadb==0.4.24
+pydantic==1.10.13
+sentence-transformers==2.6.1
+numpy
