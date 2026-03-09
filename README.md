@@ -5,7 +5,8 @@
 
 An end-to-end, multi-agent AI system built to solve complex JEE-style mathematics problems. This application utilizes a **Unified Groq Inference** strategy for Image, Audio, and Text processing, ensuring sub-second reasoning and high pedagogical accuracy.
 
-**[Demo video is available in the repo]** 
+**[Demo video:https://youtu.be/fdfZHtf-mZo?si=86i1xw1LFmRKM7zT]** 
+**[Try yourself:https://next15-ai-math-mentor.streamlit.app/]** 
 
 ---
 
